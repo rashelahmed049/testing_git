@@ -1,1 +1,1 @@
-I am on master branch. I am trying to edit something
+I am on master branch. Written something on master branch.
